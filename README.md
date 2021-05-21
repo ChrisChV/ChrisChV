@@ -4,15 +4,15 @@ I am a Clound Engineer, Backend Developer, Technology Entusiast and Gamer :video
 
 - 🔭 I’m currently working with Google Cloud Paltform and Dart.
 
-- 🌱 I’m a Co-founder of Paulonia.  
+<!--- 🌱 I’m a Co-founder of Paulonia.  -->
 
 - :memo: I'm a Topcoder writer.
 
 - 👯 I’m looking to be Google Cloud Engineer.
 
-- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-chris@paulonia.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chris@paulonia.dev)](mailto:chris@paulonia.dev)
+- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-christofer@bitmaker.la-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:christofer@bitmaker.la)](mailto:christofer@bitmaker.la)
 [![Telegram](https://img.shields.io/badge/Join%20us%20on-Telegram-blue?style=flat-square&logo=telegram)](https://t.me/XnpioChV)
-<a href="https://www.linkedin.com/in/chrischv" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<!-- <a href="https://www.linkedin.com/in/chrischv" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>-->
 
 ### Topcoder Articles
 
