@@ -30,7 +30,8 @@ Sorted by relevance:
 
 ### GitHub Stats
 
-<img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=chrischv&show_icons=true&count_private=true" />
+![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisChV&theme=algolia&count_private=true&show_icons=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ChrisChV&theme=algolia)](https://git.io/streak-stats)
 
 <!--
 **ChrisChV/ChrisChV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
