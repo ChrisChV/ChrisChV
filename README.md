@@ -1,14 +1,21 @@
+![LinkedIn Chris](https://user-images.githubusercontent.com/11827305/141887040-4f8a2f75-f080-4592-b94a-580716aad894.png)
+
+
 ### Hi!, I am Christofer Chávez 👋
 
 I am a Clound Engineer, Backend Developer, Technology Entusiast and Gamer :video_game:.
 
-- 🔭 I’m currently working with Google Cloud Paltform and Dart.
+- 🔭 I’m currently working with Google Cloud Paltform, Dart, Python and Django.
 
 - 🌱 I’m a Co-founder of Paulonia.
+
+- :notebook: I’m core member in OpenCraft.
 
 - :memo: I'm a Topcoder writer.
 
 - 👯 I’m looking to be Google Cloud Engineer.
+
+- :space_invader: I love video games, puzzles, and beers :beer:.
 
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-chris@paulonia.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chris@paulonia.dev)](mailto:chris@paulonia.dev)
 [![Telegram](https://img.shields.io/badge/Join%20us%20on-Telegram-blue?style=flat-square&logo=telegram)](https://t.me/XnpioChV)
