@@ -9,7 +9,7 @@ I am a Clound Engineer, Backend Developer, Technology Entusiast and Gamer :video
 
 - 🌱 I’m a Co-founder of Paulonia.
 
-- :notebook: I’m core member in OpenCraft.
+- :notebook: I’m core member in OpenCraft. Working on [LabXchange](https://www.labxchange.org/)
 
 - :memo: I'm a Topcoder writer.
 
