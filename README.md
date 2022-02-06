@@ -7,9 +7,9 @@ I am a Clound Engineer, Backend Developer, Technology Entusiast and Gamer :video
 
 - 🔭 I’m currently working with Google Cloud Paltform, Dart, Python and Django.
 
-- 🌱 I’m a Co-founder of Paulonia.
+- 🌱 I’m a Co-founder of [Paulonia](https://paulonia.dev/).
 
-- :notebook: I’m core member in OpenCraft. Working on [LabXchange](https://www.labxchange.org/)
+- :notebook: I’m frelance open source developer in [OpenCraft](https://www.linkedin.com/company/open-craft/mycompany/). Working on [LabXchange](https://www.labxchange.org/)
 
 - :memo: I'm a Topcoder writer.
 
@@ -33,24 +33,44 @@ Sorted by relevance:
 - [From Easy to Hard: The security in Hasura with Auth0](https://www.topcoder.com/thrive/articles/From%20Easy%20to%20Hard:%20The%20security%20in%20Hasura%20with%20Auth0)
 - [From Easy to Hard: The security in Hasura with Auth0 (II): Multiple Roles](https://www.topcoder.com/thrive/articles/from-easy-to-hard-the-security-in-hasura-with-auth0-ii-multiple-roles)
 
+### Projects I have worked on
+
+<p align="center">
+  <a href="https://www.labxchange.org/">
+    <img height="180" src="https://user-images.githubusercontent.com/11827305/152666104-447d2220-6c50-4b2d-a584-85a664ed1b46.png">
+  </a>
+  <a href="https://github.com/openedx/edx-platform">
+    <img height="180" src="https://user-images.githubusercontent.com/11827305/152666134-62ef86e2-0851-46d4-8d5b-e36c4b21e2ae.png">
+  </a>
+  <a href="https://www.facebook.com/viabobyApp/">
+    <img height="180" src="https://user-images.githubusercontent.com/11827305/152666269-53a1cdd2-6432-4b43-9b95-3e0ea9d4447a.png">
+  </a>
+</p>
+<p align="center">
+  <a href="https://www.facebook.com/ShakaPokePeru/">
+      <img height="180" src="https://user-images.githubusercontent.com/11827305/152666309-e2c3d3f1-66fb-466c-8289-635604c45d53.png">
+  </a>
+  <a href="https://apps.apple.com/us/app/fitmind-live-coaching-program/id1585726488">
+      <img height="180" src="https://user-images.githubusercontent.com/11827305/152666427-9039eb19-4055-4c2a-b96b-b189912960fe.png">
+  </a>
+  <a href="https://apps.apple.com/us/app/negocia-compra-y-vende/id1590362731">
+      <img height="180" src="https://user-images.githubusercontent.com/11827305/152666521-a2878666-463a-4429-add5-4f292d0800d7.png">
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.growi.ecommerce.app&hl=en_US&gl=US">
+      <img height="180" src="https://user-images.githubusercontent.com/11827305/152666607-01905063-eeeb-46bd-a26e-de2118e4de4d.png">
+  </a>
+</p>
+
+
+
 
 
 ### GitHub Stats
 
-![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisChV&theme=algolia&count_private=true&show_icons=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ChrisChV&theme=algolia)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChrisChV&theme=algolia&count_private=true&show_icons=true">
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ChrisChV&theme=algolia">
+</p>
 
-<!--
-**ChrisChV/ChrisChV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
