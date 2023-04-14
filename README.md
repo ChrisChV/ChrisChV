@@ -9,7 +9,7 @@ I am a Clound Engineer, Backend Developer, Technology Entusiast and Gamer :video
 
 - 🌱 I’m a Co-founder of [Paulonia](https://paulonia.dev/).
 
-- :notebook: I’m frelance open source developer in [OpenCraft](https://www.linkedin.com/company/open-craft/mycompany/). Working on [LabXchange](https://www.labxchange.org/)
+- :notebook: I’m freelance open source developer in [OpenCraft](https://www.linkedin.com/company/open-craft/mycompany/). Working on [LabXchange](https://www.labxchange.org/)
 
 - :memo: I'm a Topcoder writer.
 
